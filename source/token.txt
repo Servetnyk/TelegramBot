@@ -1,0 +1,10 @@
+name : Acumatica Ukraine Test
+username : AcumaticaUAtestbot
+token: 1853379149:AAHpRU-7neC3qw3LS3YKPZZkjdJtQpevzM4
+link: t.me/AcumaticaUAtestbot
+@AcumaticaUAtestbot
+
+Description: Acumatica Ukraine team's Telegram bot to test integration possibilities between Acumatica & Telegram
+About: Acumatica Ukraine team test bot
+
+Details: https://core.telegram.org/bots#6-botfather
