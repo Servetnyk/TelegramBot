@@ -5,6 +5,7 @@
 
 # Developer files
 [Cc]onfig.cs
+[Ss]ource/
 *.zip
 
 # User-specific files
