@@ -5,6 +5,7 @@
 
 # Developer files
 [Cc]onfig.cs
+*.zip
 
 # User-specific files
 *.rsuser
